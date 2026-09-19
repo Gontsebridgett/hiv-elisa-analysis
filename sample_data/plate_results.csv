@@ -1,0 +1,14 @@
+sample_id,sample_type,od450
+NegControl_1,control,0.132
+NegControl_2,control,0.148
+NegControl_3,control,0.141
+PosControl_1,control,1.582
+PosControl_2,control,1.601
+Patient_1,patient,0.112
+Patient_2,patient,0.891
+Patient_3,patient,0.238
+Patient_4,patient,0.098
+Patient_5,patient,1.203
+Patient_6,patient,0.156
+Patient_7,patient,0.244
+Patient_8,patient,0.077
